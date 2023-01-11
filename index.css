@@ -8,3 +8,14 @@ body {background-image: url("./images/coffee.png");
 	background-image: no-repeat;
 
 }
+
+.checked {
+	color: yellow;
+}
+
+#icon {
+	border-radius: 4px;
+	width:50px;
+	height: auto;
+
+}

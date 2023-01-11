@@ -4,7 +4,29 @@
 }
 
 
-body {background-image: url("./images/coffee.png");
+body {background-image: url("../images/project.jpg");
 	background-image: no-repeat;
 
+}
+
+#projects {
+
+	text-decoration: none;
+	text-align: center;
+	color: white;
+
+}
+
+a{
+	color: white;
+	text-align: center;
+	
+}
+
+ul{
+	list-style-type: none;
+}
+
+#pics{
+	width:200px;
 }
