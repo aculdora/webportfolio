@@ -71,7 +71,7 @@ body {background-image: url("./images/coffee.png");
 
 h1 {
   margin: auto;
-  font-size: 3.5rem;
+  font-size: 2.5rem;
   font-weight: 300;
   animation: lights 5s 750ms linear infinite;
 }
