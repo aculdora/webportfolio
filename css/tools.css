@@ -24,11 +24,11 @@ background-blend-mode: darken
   font-weight: bold;
 }
 
-.html {width: 50%; background-color: darkred;} 
+.html {width: 30%; background-color: darkred;} 
 .css {width: 30%; background-color: darkblue;} 
 .js {width: 20%; background-color: yellow;} 
-.sub {width: 70%; background-color: darkorange;}
-.boots {width: 60%; background-color: violet;}
+.sub {width: 40%; background-color: darkorange;}
+.boots {width: 40%; background-color: violet;}
 
 /*tools*/
 
